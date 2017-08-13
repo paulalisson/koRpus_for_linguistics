@@ -9,7 +9,7 @@
 ### koRpus Version 0.10-2 #####################################################
 
 
-########### 0. First thing first: setting libraries and loading data----###############
+########### 0. First things first: setting libraries and loading data----###############
 
 # downloading and loading the libraries (koRpus and tm.plugin.koRpus, tm may also be required)
 install.packages("koRpus"); install.packages("tm")
